@@ -18,8 +18,8 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 # Instructions
 * Flash [Arduboy bootloader](https://github.com/MrBlinky/Arduboy-homemade-package)
 * Upload games using the cart builder from MrBlinky [Arduboy-Python-Utilities](https://github.com/MrBlinky/Arduboy-Python-Utilities)
-* Start Plaiying it!  
-- *More detailed instructions will be uploaded later*
+* Start Plaiying it!
+* - *More detailed instructions will be uploaded later*
 
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
