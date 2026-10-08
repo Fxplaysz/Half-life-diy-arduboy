@@ -21,7 +21,8 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 * Start Plaiying it!
 
   - *More detailed instructions will be uploaded later*
-
+  - 
+# Photos
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 
@@ -36,6 +37,9 @@ These are some of the photos of my PCBs.
 
 * PCB Lay out
   <img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/f16c6b1e-cfc7-4b13-ae2f-2471c293d582" />
+* Schematics
+   - [DIY Arduboy with Flash Module support](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
+   - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo.pdf)
 
 The flash module version supports the addition of a flash module instead of using smd flash chip. Its mainly through hole components making it easier to build and use it.
 
