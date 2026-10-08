@@ -5,7 +5,7 @@ It was made using KiCad and with the help of the internet.
 I made it in 2 days in the span of 5 hours in the 2 days.
 
 
-These are some of the photos of PCBs.
+These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 
 <img width="447" height="447" alt="Screenshot 2026-10-08 225111" src="https://github.com/user-attachments/assets/8328dd90-262a-4655-9ee8-4cb29949935c" />
