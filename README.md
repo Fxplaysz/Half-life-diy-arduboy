@@ -1,5 +1,9 @@
 # Half-life-diy-arduboy
 Hello everyone, this is my repository for my diy arduboy. Here you'll find the pcb and the 3d models later on.
+I have made this DIY arduboy because i like mini handheld game consoles and electronics. This DIY Arduboy is very easy to build and can be made by anyone easily.
+It was made using KiCad and with the help of the internet. 
+I made it in 2 days in the span of 5 hours in the 2 days.
+
 
 These are some of the photos of PCBs.
 1) PCB with smd mounted flash chip.
@@ -13,6 +17,8 @@ These are some of the photos of PCBs.
 The flash module version supports the addition of a flash module instead of using smd flash chip. Its mainly through hole components making it easier to build and use it.
 
 The SMD version is a little slimmer then the flash module version but its hard to solder without hot air gun. So the choice is yours to build. 
+
+Anyone Interested in building it can check my BOM list. Feel free to ask questions.
 Have fun everyone!
 
 
