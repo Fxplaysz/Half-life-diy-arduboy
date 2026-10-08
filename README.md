@@ -8,11 +8,18 @@ It was made using KiCad and with the help of the internet.
 I made it in 2 days in the span of 5 hours in the 2 days.
 
 # Features
+* 0.96 SPI OLED display
+* ISP pins for easy programming
 * Buzzer for audio
 * Flash chip to store more then 500+ games
 * RGB LED
 * *Silent* SMD push button switches. Good for long term gaming.
 
+# Instructions
+* Flash [Arduboy bootloader](https://github.com/MrBlinky/Arduboy-homemade-package)
+* Upload games using the cart builder from MrBlinky [Arduboy-Python-Utilities](https://github.com/MrBlinky/Arduboy-Python-Utilities)
+* Start Plaiying it!  
+- *More detailed instructions will be uploaded later*
 
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
