@@ -1,14 +1,14 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"A, B, Down, RESET, SW3, SW4, Up";"SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm";7;"SW_Push";;;
-2;"BZ1";"PinHeader_1x02_P2.54mm_Vertical";1;"Buzzer";;;
-3;"C1";"C_Disc_D3.8mm_W2.6mm_P2.50mm";1;"C";;;
-4;"D1";"LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm";1;"Inolux_IN-P55TATRGB";;;
-5;"J1";"PinHeader_2x01_P2.54mm_Vertical";1;"Conn_02x01";;;
-6;"J2";"PinSocket_1x07_P2.54mm_Vertical";1;"Conn_01x07_Pin";;;
-7;"J3";"PinHeader_2x03_P2.54mm_Vertical";1;"Conn_02x03_Odd_Even";;;
-8;"J4";"PinSocket_1x06_P2.54mm_Vertical";1;"Conn_01x06_Pin";;;
-9;"J5";"PinHeader_1x01_P2.54mm_Vertical";1;"Conn_01x01_Pin";;;
-10;"Q1";"TO-92_Inline";1;"BC557";;;
-11;"R1, R2, R3";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";3;"R";;;
-12;"SW8";"SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm";1;"SW_SPDT";;;
-13;"U1";"ProMicro";1;"ProMicro";;;
+"Id","Designator","Footprint","Quantity","Designation","Supplier and ref"
+1,"A, B, Down, RESET, SW3, SW4, Up","SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm",7,"SW_Push",""
+2,"BZ1","PinHeader_1x02_P2.54mm_Vertical",1,"Buzzer",""
+3,"C1","C_Disc_D3.8mm_W2.6mm_P2.50mm",1,"C",""
+4,"D1","LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm",1,"Inolux_IN-P55TATRGB",""
+5,"J1","PinHeader_2x01_P2.54mm_Vertical",1,"Conn_02x01",""
+6,"J2","PinSocket_1x07_P2.54mm_Vertical",1,"Conn_01x07_Pin",""
+7,"J3","PinHeader_2x03_P2.54mm_Vertical",1,"Conn_02x03_Odd_Even",""
+8,"J4","PinSocket_1x06_P2.54mm_Vertical",1,"Conn_01x06_Pin",""
+9,"J5","PinHeader_1x01_P2.54mm_Vertical",1,"Conn_01x01_Pin",""
+10,"Q1","TO-92_Inline",1,"BC557",""
+11,"R1, R2, R3","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",3,"R",""
+12,"SW8","SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm",1,"SW_SPDT",""
+13,"U1","ProMicro",1,"ProMicro",""
