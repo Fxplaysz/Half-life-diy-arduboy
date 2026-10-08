@@ -2,7 +2,7 @@
 Hello everyone, this is my repository for my diy arduboy. Here you'll find the pcb and the 3d models later on.
 I have made this DIY arduboy because i like mini handheld game consoles and electronics. This DIY Arduboy is very easy to build and can be made by anyone easily.
 
-Aruduboy is a open source game console made by Kevin Bates. He has opensourced his console and made it easier for anyone to build it and have fun with it. I remember a few years back i tried making it by myself but i failed in doing so because of the technicalities in building it. So i've decide to make this project to let anyone make a DIY Arduboy easily and have fun while doing it.
+Aruduboy is a open source game console made by Kevin Bates. He has opensourced his console and made it easier for anyone to build it and have fun with it. I remember a few years back i tried making it by myself but i failed in doing so because of the technicalities in building it. So i've decided to make this project to let anyone make a DIY Arduboy easily and have fun while doing it.
 
 It was made using KiCad and with the help of the internet. 
 I made it in 2 days in the span of 5 hours in the 2 days.
