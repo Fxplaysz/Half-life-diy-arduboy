@@ -16,7 +16,7 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 * *Silent* SMD push button switches. Good for long term gaming.
 
 # Instructions
-* Flash [Arduboy bootloader](https://github.com/MrBlinky/Arduboy-homemade-package)
+* Flash [Arduboy bootloader](https://github.com/MrBlinky/Arduboy-homemade-package) using the ISP header and a [usb asp](https://robu.in/product/usbasp-avr-programming-device-for-atmel-proccessors/)
 * Upload games using the cart builder from MrBlinky [Arduboy-Python-Utilities](https://github.com/MrBlinky/Arduboy-Python-Utilities)
 * Start Plaiying it!
 
