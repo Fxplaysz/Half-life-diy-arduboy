@@ -14,3 +14,4 @@ The flash module version supports the addition of a flash module instead of usin
 
 The SMD version is a little slimmer then the flash module version but its hard to solder without hot air gun. So the choice is yours to build. 
 Have fun everyone!
+**Firmware Credit:** The test firmware used for this project is [Back to the Jungle](https://github.com/eried/ArduboyBackToTheJungle) created by eried.
