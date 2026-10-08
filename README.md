@@ -37,7 +37,7 @@ Anyone Interested in building it can check my BOM list. Feel free to ask questio
 Have fun everyone!
 
 
-**Firmware Credit:** The test firmware used for this project is [Back to the Jungle](https://github.com/eried/ArduboyBackToTheJungle) created by eried.
+**Firmware Credit:** The test firmware used for this project is [Back to the Jungle](https://github.com/eried/ArduboyBackToTheJungle) created by **eried**.
 
 
 
