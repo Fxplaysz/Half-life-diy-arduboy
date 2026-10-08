@@ -45,7 +45,7 @@ The flash module version supports the addition of a flash module instead of usin
 
 The SMD version is a little slimmer then the flash module version but its hard to solder without hot air gun. So the choice is yours to build. 
 
-Anyone Interested in building it can check my BOM list. Feel free to ask questions.
+Anyone Interested in building it can check my [BOM list](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/BOM.md). Feel free to ask questions.
 Have fun everyone!
 
 
