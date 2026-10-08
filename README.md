@@ -35,6 +35,6 @@ Have fun everyone!
 
 
 
-Arduboy community: https://community.arduboy.com/
+* **Arduboy community:** https://community.arduboy.com/
 
-Arduboy: https://www.arduboy.com/
+* **Arduboy:** https://www.arduboy.com/
