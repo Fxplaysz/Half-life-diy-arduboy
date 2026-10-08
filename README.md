@@ -3,8 +3,10 @@ Hello everyone, this is my repository for my diy arduboy. Here you'll find the p
 
 These are some of the photos of PCBs.
 1) PCB with support for flash module.
+
 <img width="447" height="447" alt="Screenshot 2026-10-08 225111" src="https://github.com/user-attachments/assets/8328dd90-262a-4655-9ee8-4cb29949935c" />
-2) PCB with smd mounted flash chip.
+
+3) PCB with smd mounted flash chip.
 <img width="447" height="447" alt="Screenshot 2026-10-08 225111" src="https://github.com/user-attachments/assets/a81b5401-6e33-4cb2-b447-5c7648a82597" />
 
 The flash module version supports the addition of a flash module instead of using smd flash chip. Its mainly through hole components making it easier to build and use it.
