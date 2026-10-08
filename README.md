@@ -21,7 +21,7 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 * Start Plaiying it!
 
   - *More detailed instructions will be uploaded later*
-  - 
+    
 # Photos
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
