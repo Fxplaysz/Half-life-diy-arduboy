@@ -7,6 +7,12 @@ Aruduboy is a open source game console made by Kevin Bates. He has opensourced h
 It was made using KiCad and with the help of the internet. 
 I made it in 2 days in the span of 5 hours in the 2 days.
 
+# Features
+* Buzzer for audio
+* Flash chip to store more then 500+ games
+* RGB LED
+* *Silent* SMD push button switches. Good for long term gaming.
+
 
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
