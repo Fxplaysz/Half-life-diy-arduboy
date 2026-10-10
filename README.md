@@ -30,6 +30,7 @@ These are some of the photos of my PCBs.
 2) PCB with support for flash module.
 - Front
 <img width="3840" height="2186" alt="diy_ardubo_flash_module_front" src="https://github.com/user-attachments/assets/f3535148-e598-4108-a012-1e93b0d5f3e3" />
+
 - Back
 <img width="3840" height="2186" alt="diy_ardubo_flash_module_back" src="https://github.com/user-attachments/assets/c00e67e3-2333-48e1-8a47-286b854b5144" />
 
