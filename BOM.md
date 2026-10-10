@@ -13,7 +13,6 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Female header pins](https://robu.in/product/fh2-54-09-10pzd-xunpu-plugin1x10-pin-2-54mm-female-headers-rohs/) | To connect the oled display and arduino pro micro with the components. | 5 | $0.20 | $1.00 | [Robu.in](https://robu.in/product/fh2-54-09-10pzd-xunpu-plugin1x10-pin-2-54mm-female-headers-rohs/) |
-| [10K resistor](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%cf%89-250mw-%c2%b1100ppm-%e2%84%83-%c2%b11-plugind2-4xl6-3mm-through-hole-resistors-rohs/) | To bring down the voltage for the flash chip | 5 | $0.03 | $0.15 | [Robu.in](https://robu.in/product/mfr-25frf52-10k-yageo-metal-film-resistors-10k%cf%89-250mw-%c2%b1100ppm-%e2%84%83-%c2%b11-plugind2-4xl6-3mm-through-hole-resistors-rohs/) |
 | [SMD Tactile Switches](https://robu.in/product/1-month-warranty-1138/) | The buttons of my diy arduboy. | 20 | $0.12 | $2.40 | [Robu.in](https://robu.in/product/1-month-warranty-1138/) |
 | [W25Q128 breakout flash chip module](https://robu.in/product/w25q128-large-capacity-flash-storage-module/) | The flash chip to hold the games of the flash module version of my DIY arduboy | 2 | $1.85 | $3.70 | [Robu.in](https://robu.in/product/w25q128-large-capacity-flash-storage-module/) |
 | [USB ASP](https://robu.in/product/usbasp-avr-programming-device-for-atmel-proccessors/) | For programming and flashing the bootloader of the arduino pro micro | 1 | $2.06 | $2.06 | [Robu.in](https://robu.in/product/usbasp-avr-programming-device-for-atmel-proccessors/) |
@@ -28,8 +27,8 @@
 | [ArduboyFlashChipSMD](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) | SMD pcb version of my diy arduino | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) |
 | [DiyArduboyFlashModule](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) | Another version of My DIY arduboy which can be used using a flash module instead of smd soldering | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) |
 | [Adafruit QSPI DIP Breakout Board - W25Q128](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) | to test the smd version of my Diy Arduboy | 1 | $4.45 | $4.45 | [evelta.in](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) |
-| **Parts subtotal** | — | — | — | **$32.52** | — |
+| **Parts subtotal** | — | — | — | **$32.37** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$32.52** | — |
+| **Total** | — | — | — | **$32.37** | — |
 
-$32.48 left of the tier's funding.
+$32.63 left of the tier's funding.
