@@ -26,18 +26,22 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 
-<img width="447" height="447" alt="Screenshot 2026-10-08 225111" src="https://github.com/user-attachments/assets/8328dd90-262a-4655-9ee8-4cb29949935c" />
+<img width="1170" height="666" alt="diy_ardubo" src="https://github.com/user-attachments/assets/e74017e1-181f-4b8a-ae62-7fb2ece79023" />
+
 
 * PCB Layout 
-  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/948aa331-e40c-4545-92c0-058113432359" />
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/80fe4af9-fbe6-4610-8de1-47e2a8e3d728" />
+
 
 2) PCB with support for flash module.
 
-<img width="447" height="447" alt="Screenshot 2026-10-08 225111" src="https://github.com/user-attachments/assets/a81b5401-6e33-4cb2-b447-5c7648a82597" />
+<img width="1170" height="666" alt="diy_ardubo_flash_module" src="https://github.com/user-attachments/assets/9c5d9603-1f17-4e01-b658-e348ca394b33" />
+
 
 * PCB Lay out
-  <img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/f16c6b1e-cfc7-4b13-ae2f-2471c293d582" />
-* Schematics
+  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/112b147f-992c-47db-8961-e1de0c638cd7" />
+
+  
    - [DIY Arduboy with Flash Module support](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
    - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo.pdf)
 
