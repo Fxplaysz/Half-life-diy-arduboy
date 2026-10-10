@@ -30,9 +30,8 @@
 | [24AWG Single core teflon wire](https://robu.in/product/24awg-single-core-teflon-wire-red/) | For connecting passive components like the battery with the booster | 3 | $0.14 | $0.42 | [Robu.in](https://robu.in/product/24awg-single-core-teflon-wire-red/) |
 | [ArduboyFlashChipSMD](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) | SMD pcb version of my diy arduino | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) |
 | [DiyArduboyFlashModule](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) | Another version of My DIY arduboy which can be used using a flash module instead of smd soldering | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) |
-| [Adafruit QSPI DIP Breakout Board - W25Q128](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) | It to test the smd chip version of my diy arduboy | 2 | $4.45 | $8.90 | [evelta.com](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) |
-| **Parts subtotal** | — | — | — | **$37.72** | — |
+| **Parts subtotal** | — | — | — | **$28.82** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$37.72** | — |
+| **Total** | — | — | — | **$28.82** | — |
 
-$27.28 left of the tier's funding.
+$36.18 left of the tier's funding.
