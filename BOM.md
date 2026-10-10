@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [0.96 OLED Display Module - SPI/I2C - 128x64 - 7 Pin Blue](https://robu.in/product/0-96-oled-display-module-spi-i2c-128x64-7-pin-blue/) | For the display of my arduboy | 2 | $2.47 | $4.94 | [Robu.in](https://robu.in/product/0-96-oled-display-module-spi-i2c-128x64-7-pin-blue/) |
 | [XL-5050RGBC](https://robu.in/product/1-month-warranty-193/) | The rgb light of my arduboy | 5 | $0.08 | $0.40 | [Robu.in](https://robu.in/product/1-month-warranty-193/) |
 | [100nf 50v Disc Capacitor](https://robu.in/product/100nf-50v-disc-capacitor/) | To smooth out the voltage and protect the flash chip from voltage spikes | 11 | $0.01 | $0.11 | [Robu.in](https://robu.in/product/100nf-50v-disc-capacitor/) |
 | [BC557 PNP Transistor](https://robu.in/product/bc557-pnp-transistor-pack-of-20/) | To make the cs driver setup. | 12 | $0.02 | $0.24 | [Robu.in](https://robu.in/product/bc557-pnp-transistor-pack-of-20/) |
@@ -32,8 +31,8 @@
 | [ArduboyFlashChipSMD](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) | SMD pcb version of my diy arduino | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6d7ae1b39_gerber_file.zip) |
 | [DiyArduboyFlashModule](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) | Another version of My DIY arduboy which can be used using a flash module instead of smd soldering | 5 | $1.55 | $7.75 | [Robu.in](https://robu-prod-media.s3.ap-south-1.amazonaws.com/PCB/pcb_6aca6de32484f_gerber_file.zip) |
 | [Adafruit QSPI DIP Breakout Board - W25Q128](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) | It to test the smd chip version of my diy arduboy | 2 | $4.45 | $8.90 | [evelta.com](https://evelta.com/adafruit-qspi-dip-breakout-board---w25q128---128-mbit-16-mbyte---w25q128jvssiq/) |
-| **Parts subtotal** | — | — | — | **$42.66** | — |
+| **Parts subtotal** | — | — | — | **$37.72** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$42.66** | — |
+| **Total** | — | — | — | **$37.72** | — |
 
-$22.34 left of the tier's funding.
+$27.28 left of the tier's funding.
