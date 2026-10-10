@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – OMG i didn't know how to select the video recording screen properly so 1.5 minutes of the footage is blank..](#2026-10-05-omg-i-didnt-know-how-to-select-the-video-recordin)
 2. [2026-10-08 – Hellooo,](#2026-10-08-hellooo)
-3. [2026-10-10 – Work session](#2026-10-10-work-session)
+3. [2026-10-10 – Hello everyonee!!](#2026-10-10-hello-everyonee)
 
 ## Design
 
@@ -57,8 +57,23 @@ I hope that i get selected. If i get selected i will buy hot air station and sol
 
 [Timelapse](https://lookout.hackclub.com/api/media/29710981-dd2a-423c-9943-9e168afc07e6/video.mp4)
 
-### 2026-10-10 – Work session
+### 2026-10-10 – Hello everyonee!!
 
 **3.85h**
+
+Hello everyonee!!
+Today i decided to add some fun to my diy arduboy. I added some graphics to it.
+Fun designs. I did the best i could do 😭. but seriously, 3 days of hacklife has been so good, i've learned to use kicad in such a short amount of time, so fun!!
+
+Getting the graphics was kinda tricky but i got it working. Some errors i faced was that i had by mistake put the silkscreen of the front layer to front layer 😭😭. Got it fixed. Everything should hopefully be fine 🙏
+Here are some pictures
+
+![diy_ardubo_back](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lZaIEGnT6pua6MVcisjViVfGFe8nZJMj/dd893417d52875798c52d1e3912699de085ad0ab5804f381e1b6761cfb45cf3a.png)
+
+![diy_ardubo_front](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lZaIEGnT6pua6MVcisjViVfGFe8nZJMj/a103f85f05bb0a1412e31b01887d28bfa824e07e383de54b0125f4a3da90d3eb.png)
+
+![diy_ardubo_flash_module_back](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lZaIEGnT6pua6MVcisjViVfGFe8nZJMj/8a30837c41b97bcc573c5e1274829e1d5e7b4860e6367a70297d072cbea37061.png)
+
+![diy_ardubo_flash_module_front](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lZaIEGnT6pua6MVcisjViVfGFe8nZJMj/a9fb6faebf592b711aea38c85e73940d0a2f99586a76315897443f5ccf6f7b6a.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/092c10c5-2922-462a-88d6-d9af7945be1d/video.mp4)
