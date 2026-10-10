@@ -26,22 +26,12 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 
-<img width="1170" height="666" alt="diy_ardubo" src="https://github.com/user-attachments/assets/e74017e1-181f-4b8a-ae62-7fb2ece79023" />
-
-
-* PCB Layout
-- Front
-  <img width="3840" height="2186" alt="diy_ardubo_front" src="https://github.com/user-attachments/assets/72cc6233-0522-452d-8c39-c86d88b5c603" />
-- Back
-  <img width="3840" height="2186" alt="diy_ardubo_back" src="https://github.com/user-attachments/assets/519bb745-6865-41c4-9835-   ba8a5f9573b6" />
-
 
 2) PCB with support for flash module.
 - Front
 <img width="3840" height="2186" alt="diy_ardubo_flash_module_front" src="https://github.com/user-attachments/assets/f3535148-e598-4108-a012-1e93b0d5f3e3" />
 - Back
 <img width="3840" height="2186" alt="diy_ardubo_flash_module_back" src="https://github.com/user-attachments/assets/c00e67e3-2333-48e1-8a47-286b854b5144" />
-
 
 * PCB Lay out
   <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/112b147f-992c-47db-8961-e1de0c638cd7" />
