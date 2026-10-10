@@ -34,7 +34,7 @@
 | [RGB SMD LED](https://robu.in/product/1-month-warranty-186/) | To display colour lights for my DIY Arduboy | 5 | $0.05 | $0.25 | [Robu.in](https://robu.in/product/1-month-warranty-186/) |
 | [Arduino Pro Micro](https://robu.in/product/pro-micro-type-c-microcontroller-development-board-for-arduino/) | its the main microcontroller of my DIY Arduboy. and its responsible for running my DIY Arduboy | 2 | $5.57 | $11.14 | [Robu.in](https://robu.in/product/pro-micro-type-c-microcontroller-development-board-for-arduino/) |
 | **Parts subtotal** | — | — | — | **$53.65** | — |
-| **Tax & shipping** | — | — | — | **$1.03** | — |
-| **Total** | — | — | — | **$54.68** | — |
+| **Tax & shipping** | — | — | — | **$2.53** | — |
+| **Total** | — | — | — | **$56.18** | — |
 
-$10.32 left of the tier's funding.
+$8.82 left of the tier's funding.
