@@ -43,7 +43,8 @@ These are some of the photos of my PCBs.
 
 * PCB Lay out
   <img width="1365" height="767" alt="Screenshot 2026-10-12 000837" src="https://github.com/user-attachments/assets/f60d6f6a-b4f6-4951-97b3-07493b6b4e39" />
-
+  
+* Schematics
    - [DIY Arduboy with Flash Module support](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
    - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo.pdf)
 
