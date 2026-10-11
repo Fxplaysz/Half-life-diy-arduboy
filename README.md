@@ -32,7 +32,7 @@ These are some of the photos of my PCBs.
 <img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/aebcfedd-38a4-4232-acc0-c09b1c2e6213" />
 
 * PCB Lay out
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f6c1914d-6aa5-4f76-a9b6-07b6fd6e485a" />
+<img width="1363" height="762" alt="Screenshot 2026-10-12 000714" src="https://github.com/user-attachments/assets/e1462ec0-1656-43ad-a123-7f6234c29f7f" />
 
 2) PCB with support for flash module.
 - Front
@@ -42,9 +42,8 @@ These are some of the photos of my PCBs.
 <img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/0553c7fd-c90a-41c5-b1c5-234398bdc090" />
 
 * PCB Lay out
-  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/112b147f-992c-47db-8961-e1de0c638cd7" />
+  <img width="1365" height="767" alt="Screenshot 2026-10-12 000837" src="https://github.com/user-attachments/assets/f60d6f6a-b4f6-4951-97b3-07493b6b4e39" />
 
-  
    - [DIY Arduboy with Flash Module support](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
    - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo.pdf)
 
