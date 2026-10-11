@@ -36,6 +36,11 @@ These are some of the photos of my PCBs.
 - Back
 <img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/aebcfedd-38a4-4232-acc0-c09b1c2e6213" />
 
+<details>
+  <summary>Click to view back with components</summary>
+  <img width="3840" height="2186" alt="backwithcomponents" src="https://github.com/user-attachments/assets/1e91dae6-3780-4127-9885-5dbf781a892a" />
+</details>
+
 * PCB Lay out
 <img width="1363" height="762" alt="Screenshot 2026-10-12 000714" src="https://github.com/user-attachments/assets/e1462ec0-1656-43ad-a123-7f6234c29f7f" />
 
@@ -43,8 +48,18 @@ These are some of the photos of my PCBs.
 - Front
 <img width="3840" height="2186" alt="frontwithoutcomponents" src="https://github.com/user-attachments/assets/d2495391-06b4-4182-b511-ea16d94a5662" />
 
+<details>
+  <summary>Click to view front with components</summary>
+  <img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/2eb0d3b3-a35c-4d95-8a48-f89f448335de" />
+</details>
+
 - Back
 <img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/0553c7fd-c90a-41c5-b1c5-234398bdc090" />
+
+<details>
+  <summary>Click to view back with components</summary>
+<img width="3840" height="2186" alt="backwithcomponents" src="https://github.com/user-attachments/assets/c05f8d30-013f-4077-bd59-78ac25675511" />
+</details>
 
 * PCB Lay out
   <img width="1365" height="767" alt="Screenshot 2026-10-12 000837" src="https://github.com/user-attachments/assets/f60d6f6a-b4f6-4951-97b3-07493b6b4e39" />
