@@ -30,7 +30,7 @@ These are some of the photos of my PCBs.
 <details>
   <summary>Click to view front with components</summary>
   
-  ![Circuit Diagram](<img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/38cba938-a7f4-4e40-b89c-9e4ade9b1825" />)
+  ![Circuit Diagram]<img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/38cba938-a7f4-4e40-b89c-9e4ade9b1825" />
   
 </details>
 - Back
