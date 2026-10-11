@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "DIY Arduboy with flash module support")
-		(date "2026-10-09")
-		(rev "1.1")
+		(date "2026-10-11")
+		(rev "1.2")
 		(company "Fxplaysz")
 	)
 	(lib_symbols
@@ -811,6 +811,187 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 3.81 -4.826 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x06_Pin"
 			(pin_names
 				(offset 1.016)
@@ -1146,164 +1327,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Connector_Generic:Conn_02x01"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 1.27 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_02x01"
-				(at 1.27 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_2x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_02x01_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 3.81 -1.27)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 3.81 0.127)
-					(end 2.54 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 0 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4642,12 +4665,6 @@
 		(uuid "221058fe-0b61-44d3-9009-94edfb601c32")
 	)
 	(junction
-		(at 127 69.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23c43ba2-07ad-4cef-b9c1-62c4df602f82")
-	)
-	(junction
 		(at 123.19 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4762,6 +4779,12 @@
 		(uuid "bd6cb324-d4b4-4043-91a8-2bba59883a39")
 	)
 	(junction
+		(at 127 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c429741e-acea-43dd-851b-9773243d9f44")
+	)
+	(junction
 		(at 181.61 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4839,16 +4862,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 62.23) (xy 69.85 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0648bdd1-d79a-4cda-8f92-647f59133026")
-	)
-	(wire
-		(pts
 			(xy 142.24 74.93) (xy 133.35 74.93)
 		)
 		(stroke
@@ -4919,16 +4932,6 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 44.45) (xy 121.92 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10654c5c-60e3-4143-b81a-0c558600f124")
-	)
-	(wire
-		(pts
 			(xy 123.19 135.89) (xy 182.88 135.89)
 		)
 		(stroke
@@ -4936,16 +4939,6 @@
 			(type default)
 		)
 		(uuid "116a5593-b873-4819-95eb-8066d9ce4d6c")
-	)
-	(wire
-		(pts
-			(xy 72.39 49.53) (xy 72.39 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "125bdc0b-2c85-423b-b4b2-670436580386")
 	)
 	(wire
 		(pts
@@ -4989,6 +4982,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 69.85) (xy 127 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d9c1a40-873b-4f7b-8d73-a7cbde7a0680")
+	)
+	(wire
+		(pts
 			(xy 210.82 58.42) (xy 217.17 58.42)
 		)
 		(stroke
@@ -5016,6 +5019,16 @@
 			(type default)
 		)
 		(uuid "24083a43-d1f2-48fc-ab78-e3fe43e4189f")
+	)
+	(wire
+		(pts
+			(xy 72.39 38.1) (xy 67.31 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24186dda-54c7-47fb-9cdf-896778f9b06c")
 	)
 	(wire
 		(pts
@@ -5219,6 +5232,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 33.02) (xy 58.42 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32cf8927-ae52-44bf-80ad-807ff1b9c618")
+	)
+	(wire
+		(pts
 			(xy 129.54 72.39) (xy 129.54 76.2)
 		)
 		(stroke
@@ -5246,16 +5269,6 @@
 			(type default)
 		)
 		(uuid "3503f329-c709-49f4-bcb7-1ad806dfab40")
-	)
-	(wire
-		(pts
-			(xy 74.93 69.85) (xy 127 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "35e4c2df-47a9-47e3-abfe-5483f13d334a")
 	)
 	(wire
 		(pts
@@ -5319,7 +5332,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 69.85) (xy 127 73.66)
+			(xy 127 60.96) (xy 127 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5339,6 +5352,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 54.61) (xy 67.31 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f03c689-1f39-4eab-82e4-fd1a0fc7a335")
+	)
+	(wire
+		(pts
 			(xy 127 73.66) (xy 127 76.2)
 		)
 		(stroke
@@ -5346,16 +5369,6 @@
 			(type default)
 		)
 		(uuid "3f5b03fe-27bd-412c-82a0-2ad52070dece")
-	)
-	(wire
-		(pts
-			(xy 74.93 62.23) (xy 69.85 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4196e5c9-3f9e-4861-a723-89f1b1ec5006")
 	)
 	(wire
 		(pts
@@ -5369,6 +5382,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 46.99) (xy 113.03 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "440a261f-db08-45fb-b36d-964c19118010")
+	)
+	(wire
+		(pts
 			(xy 187.96 106.68) (xy 190.5 106.68)
 		)
 		(stroke
@@ -5376,6 +5399,16 @@
 			(type default)
 		)
 		(uuid "445d0775-2d7f-44a6-9652-4c24ae9a1ed8")
+	)
+	(wire
+		(pts
+			(xy 67.31 38.1) (xy 67.31 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44def26c-9d98-4a6e-8f6d-5e1e84281c69")
 	)
 	(wire
 		(pts
@@ -5549,6 +5582,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 76.2) (xy 124.46 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5883b100-ce6c-4bd0-ad17-a02593e2391c")
+	)
+	(wire
+		(pts
 			(xy 72.39 144.78) (xy 74.93 144.78)
 		)
 		(stroke
@@ -5556,16 +5599,6 @@
 			(type default)
 		)
 		(uuid "5a6fe7ec-49ae-43d5-852a-e671f1a5633d")
-	)
-	(wire
-		(pts
-			(xy 72.39 44.45) (xy 74.93 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b0a528a-f250-4262-b2c6-75c2d54bc7ac")
 	)
 	(wire
 		(pts
@@ -5649,6 +5682,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 44.45) (xy 110.49 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61cb2a75-75f4-4815-b298-290941cf7d14")
+	)
+	(wire
+		(pts
 			(xy 187.96 137.16) (xy 187.96 116.84)
 		)
 		(stroke
@@ -5656,6 +5699,16 @@
 			(type default)
 		)
 		(uuid "65591a62-9dd5-4a84-b614-daa0b29c7330")
+	)
+	(wire
+		(pts
+			(xy 48.26 43.18) (xy 48.26 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65a2434b-abbc-4956-b2bb-81bfb6ed1168")
 	)
 	(wire
 		(pts
@@ -5676,16 +5729,6 @@
 			(type default)
 		)
 		(uuid "6a77391d-7fe7-4446-b227-1d8ae99976ff")
-	)
-	(wire
-		(pts
-			(xy 74.93 69.85) (xy 74.93 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b2dc58d-7b7e-4141-8f1c-15b4f7657d32")
 	)
 	(wire
 		(pts
@@ -5759,6 +5802,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 49.53) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74894b94-7daa-4e11-aeed-8cb8fb13fb90")
+	)
+	(wire
+		(pts
 			(xy 165.1 124.46) (xy 165.1 121.92)
 		)
 		(stroke
@@ -5786,16 +5839,6 @@
 			(type default)
 		)
 		(uuid "76b261a2-f801-49b0-a003-693e1470e1f3")
-	)
-	(wire
-		(pts
-			(xy 121.92 44.45) (xy 121.92 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78aa085e-2bf7-4d43-ba09-bcc8fe8fd4dc")
 	)
 	(wire
 		(pts
@@ -5839,6 +5882,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 46.99) (xy 113.03 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b5cfad5-7d84-42d1-9149-3b9e0da25798")
+	)
+	(wire
+		(pts
 			(xy 74.93 154.94) (xy 72.39 154.94)
 		)
 		(stroke
@@ -5846,16 +5899,6 @@
 			(type default)
 		)
 		(uuid "7ce7b65e-246b-46c7-9d9e-c085e1d35d05")
-	)
-	(wire
-		(pts
-			(xy 121.92 76.2) (xy 124.46 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e66e72b-f035-4c1d-9748-b4c3d74253cd")
 	)
 	(wire
 		(pts
@@ -6169,6 +6212,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 33.02) (xy 58.42 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a42e9325-2f1b-4f71-8705-eb4d250aaf2a")
+	)
+	(wire
+		(pts
 			(xy 149.86 74.93) (xy 149.86 76.2)
 		)
 		(stroke
@@ -6259,6 +6312,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 44.45) (xy 110.49 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af984a74-5df2-46f6-8c20-de47e85d0ab5")
+	)
+	(wire
+		(pts
 			(xy 105.41 13.97) (xy 24.13 13.97)
 		)
 		(stroke
@@ -6329,6 +6392,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 34.29) (xy 72.39 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b566f63d-5dce-4edd-95e3-2a738ad1bf33")
+	)
+	(wire
+		(pts
 			(xy 82.55 26.67) (xy 83.82 26.67)
 		)
 		(stroke
@@ -6376,6 +6449,16 @@
 			(type default)
 		)
 		(uuid "ba55434e-1fee-46e3-9be2-ab9f0c67ceca")
+	)
+	(wire
+		(pts
+			(xy 67.31 54.61) (xy 67.31 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba8d603f-c29a-49e2-bf94-db40f9a92d4c")
 	)
 	(wire
 		(pts
@@ -6459,6 +6542,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 69.85) (xy 127 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c20dacfa-d419-4217-b5d6-d2924f9d764a")
+	)
+	(wire
+		(pts
 			(xy 166.37 60.96) (xy 166.37 77.47)
 		)
 		(stroke
@@ -6496,16 +6589,6 @@
 			(type default)
 		)
 		(uuid "c710543b-6f0b-4af5-992d-54f691500b06")
-	)
-	(wire
-		(pts
-			(xy 127 60.96) (xy 127 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7fe3621-eaf8-4f23-91e9-7e6c86e9ce09")
 	)
 	(wire
 		(pts
@@ -6949,6 +7032,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 34.29) (xy 72.39 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb16105d-3cc5-4f31-916f-7a19e6e0febb")
+	)
+	(wire
+		(pts
 			(xy 223.52 128.27) (xy 246.38 128.27)
 		)
 		(stroke
@@ -7079,8 +7172,9 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x01")
-		(at 80.01 44.45 0)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 72.39 44.45 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7088,10 +7182,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "31d0764e-dd16-48d8-b20f-f9e55ef40d3e")
-		(property "Reference" "J1"
-			(at 81.28 38.1 0)
+		(uuid "15c3ce9e-2c75-4799-a8f5-acf1557f4e49")
+		(property "Reference" "J6"
+			(at 71.755 39.37 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7100,8 +7193,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x01"
-			(at 81.28 40.64 0)
+		(property "Value" "Conn_01x02_Pin"
+			(at 71.755 41.91 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7110,8 +7203,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical"
-			(at 80.01 44.45 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 72.39 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7122,7 +7215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 44.45 0)
+			(at 72.39 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7132,8 +7225,8 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x01, this symbol is compatible with counter-clockwise, top-bottom and odd-even numbering schemes., script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 80.01 44.45 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 72.39 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7142,17 +7235,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "1"
-			(uuid "b6e32c06-6588-4fff-ad12-771d427dbb6b")
 		)
 		(pin "2"
-			(uuid "ff78bed1-7ed8-4219-b032-841af82e9e98")
+			(uuid "b7190fc0-fb09-429e-b8ce-b324d258099c")
+		)
+		(pin "1"
+			(uuid "b26581bd-c1ea-4e7e-af8a-5d7b87365074")
 		)
 		(instances
 			(project "diy_ardubo_flash_module"
 				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
-					(reference "J1")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -7397,6 +7490,165 @@
 			(project "diy_ardubo_flash_module"
 				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
 					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 81.28 44.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4e00afb5-40eb-411a-a3b4-f0804aa2039d")
+		(property "Reference" "J7"
+			(at 84.328 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 83.312 49.022 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0c7ce9d8-924d-497d-b59a-d87778889ce8")
+		)
+		(pin "1"
+			(uuid "fe860c6e-5e6e-4b12-8b3b-3d49bbd10b6d")
+		)
+		(instances
+			(project "diy_ardubo_flash_module"
+				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 53.34 46.99 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56a19dba-660a-4f04-b274-1bbe51c890ef")
+		(property "Reference" "J1"
+			(at 52.705 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 52.07 43.688 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 53.34 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 53.34 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "9ae9c9b8-225e-41e3-8351-7e04d55233fa")
+		)
+		(pin "1"
+			(uuid "6477fa45-8d4a-405d-9706-68b773525438")
+		)
+		(instances
+			(project "diy_ardubo_flash_module"
+				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8008,6 +8260,91 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_SPDT")
+		(at 45.72 38.1 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b31ee100-3d76-4a25-ade5-39415f714ad3")
+		(property "Reference" "SW8"
+			(at 50.8 36.8299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SW_SPDT"
+			(at 50.8 39.3699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
+			(at 45.72 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Switch, single pole double throw"
+			(at 45.72 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fdf42f1f-419f-499a-ad6e-d377fd99d8ec")
+		)
+		(pin "2"
+			(uuid "162f9c5c-c655-436a-bfca-c8628af0c702")
+		)
+		(pin "3"
+			(uuid "f2f6347c-2422-4029-91d1-ebe09fb3a502")
+		)
+		(instances
+			(project "diy_ardubo_flash_module"
+				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
+					(reference "SW8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_BJT:BC557")
 		(at 179.07 49.53 0)
 		(unit 1)
@@ -8505,91 +8842,6 @@
 			(project "diy_ardubo_flash_module"
 				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
 					(reference "U1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_SPDT")
-		(at 72.39 54.61 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d7bcc83e-dea4-4635-bce5-439679736718")
-		(property "Reference" "SW8"
-			(at 77.47 53.3399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_SPDT"
-			(at 77.47 55.8799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
-			(at 72.39 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Switch, single pole double throw"
-			(at 72.39 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3de81632-54af-4f6c-82ed-b7fd862fa9f1")
-		)
-		(pin "2"
-			(uuid "ab5446f6-eea1-4a8c-9884-c5065621e0c8")
-		)
-		(pin "3"
-			(uuid "5db738e7-2775-4af3-861e-1e8b556b4450")
-		)
-		(instances
-			(project "diy_ardubo_flash_module"
-				(path "/6c29b69f-1eb4-485d-a692-8ec8bb1ddf0d"
-					(reference "SW8")
 					(unit 1)
 				)
 			)
