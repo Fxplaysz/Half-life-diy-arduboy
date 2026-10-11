@@ -27,7 +27,12 @@ These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 - Front
 <img width="3840" height="2186" alt="frontwithoutcomponents" src="https://github.com/user-attachments/assets/6783de28-bd1a-4e87-8b57-d9cc8b5522bc" />
-
+<details>
+  <summary>Click to view front with components</summary>
+  
+  ![Circuit Diagram](<img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/38cba938-a7f4-4e40-b89c-9e4ade9b1825" />)
+  
+</details>
 - Back
 <img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/aebcfedd-38a4-4232-acc0-c09b1c2e6213" />
 
