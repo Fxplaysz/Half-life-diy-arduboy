@@ -74,6 +74,7 @@ The SMD version is a little slimmer then the flash module version but its hard t
 
 Anyone Interested in building it can check my [BOM list](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/BOM.md). Feel free to ask questions.
 Have fun everyone!
+
 This is the BOM list 
 # DIY arduboy – bill of materials
 
