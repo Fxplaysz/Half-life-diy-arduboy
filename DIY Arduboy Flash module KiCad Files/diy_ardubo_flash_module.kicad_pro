@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "1.2"
+      "sch_revision": "1.3"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "../DIY_Arduboy_Flash_module_final/",
+      "plot": "C:/Users/Admin/Downloads/DIY_Arduboy_Flash_module_final",
       "specctra_dsn": "",
-      "step": "",
+      "step": "diy_ardubo_flash_module.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
