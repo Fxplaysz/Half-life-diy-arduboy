@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "1.2"
+      "sch_revision": "1.3"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Admin/Downloads/DIY_Aduboy_SMD_Flash_final/",
+      "plot": "C:/Users/Admin/Downloads/DIY_Aduboy_SMD_Flash_final",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
