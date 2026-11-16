@@ -61,8 +61,8 @@ These are some of the photos of my PCBs.
 
 <details>
   <summary>Click to view back with components</summary>
-<img width="3840" height="2186" alt="back without" src="https://github.com/user-attachments/assets/5ea83279-b05b-4557-b785-642838b3a0c7" />
-  
+<img width="3840" height="2186" alt="back with" src="https://github.com/user-attachments/assets/ca15ad6a-32ee-4916-8b97-f3e8b4008fec" />
+
 </details>
 
 * PCB Lay out
