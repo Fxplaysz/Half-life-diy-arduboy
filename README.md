@@ -26,47 +26,51 @@ I made it in 2 days in the span of 5 hours in the 2 days.
 These are some of the photos of my PCBs.
 1) PCB with smd mounted flash chip.
 - Front
-<img width="3840" height="2186" alt="frontwithoutcomponents" src="https://github.com/user-attachments/assets/6783de28-bd1a-4e87-8b57-d9cc8b5522bc" />
+<img width="3840" height="2186" alt="front without comp diy_ardubo" src="https://github.com/user-attachments/assets/49e19cbd-8b57-48ca-a24d-f84a2984fe2f" />
 
 <details>
   <summary>Click to view front with components</summary>
-  <img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/38cba938-a7f4-4e40-b89c-9e4ade9b1825" />
+<img width="3840" height="2186" alt="front with comp diy_ardubo" src="https://github.com/user-attachments/assets/42ee0f89-a05a-497b-9608-034279c71c3d" />
+
 </details>
 
 - Back
-<img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/aebcfedd-38a4-4232-acc0-c09b1c2e6213" />
+<img width="3840" height="2186" alt="back without comp" src="https://github.com/user-attachments/assets/63555ddf-18b8-4b01-b87c-85c6274f4705" />
 
 <details>
   <summary>Click to view back with components</summary>
-  <img width="3840" height="2186" alt="backwithcomponents" src="https://github.com/user-attachments/assets/1e91dae6-3780-4127-9885-5dbf781a892a" />
+<img width="3840" height="2186" alt="back with comp" src="https://github.com/user-attachments/assets/38cb664f-a875-4e75-8fa7-b2fd987998b1" />
+
 </details>
 
 * PCB Lay out
-<img width="1363" height="762" alt="Screenshot 2026-10-12 000714" src="https://github.com/user-attachments/assets/e1462ec0-1656-43ad-a123-7f6234c29f7f" />
+<img width="1076" height="602" alt="image" src="https://github.com/user-attachments/assets/8a15bd3b-096f-46a6-b7ca-1f66c445ae82" />
 
 2) PCB with support for flash module.
 - Front
-<img width="3840" height="2186" alt="frontwithoutcomponents" src="https://github.com/user-attachments/assets/d2495391-06b4-4182-b511-ea16d94a5662" />
+<img width="3840" height="2186" alt="without front" src="https://github.com/user-attachments/assets/1940ae99-4988-49f8-be6a-8704443284f2" />
 
 <details>
   <summary>Click to view front with components</summary>
-  <img width="3840" height="2186" alt="frontwithcomponents" src="https://github.com/user-attachments/assets/2eb0d3b3-a35c-4d95-8a48-f89f448335de" />
+<img width="3840" height="2186" alt="with front" src="https://github.com/user-attachments/assets/3581d7b2-6a37-4bee-a979-b111fc597282" />
+
 </details>
 
 - Back
-<img width="3840" height="2186" alt="backwithoutcomponents" src="https://github.com/user-attachments/assets/0553c7fd-c90a-41c5-b1c5-234398bdc090" />
+<img width="3840" height="2186" alt="back without" src="https://github.com/user-attachments/assets/cb29c493-1a43-4b58-ab60-1239877e058d" />
 
 <details>
   <summary>Click to view back with components</summary>
-<img width="3840" height="2186" alt="backwithcomponents" src="https://github.com/user-attachments/assets/c05f8d30-013f-4077-bd59-78ac25675511" />
+<img width="3840" height="2186" alt="back without" src="https://github.com/user-attachments/assets/5ea83279-b05b-4557-b785-642838b3a0c7" />
+  
 </details>
 
 * PCB Lay out
-  <img width="1365" height="767" alt="Screenshot 2026-10-12 000837" src="https://github.com/user-attachments/assets/f60d6f6a-b4f6-4951-97b3-07493b6b4e39" />
+<img width="1067" height="597" alt="image" src="https://github.com/user-attachments/assets/09214183-a96f-4123-836f-01bd861f99b4" />
   
 * Schematics
    - [DIY Arduboy with Flash Module support](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
-   - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_ardubo_flash_module.pdf)
+   - [DIY Arduboy with SMD flash chip](https://github.com/Fxplaysz/Half-life-diy-arduboy/blob/main/diy_arduboy_smd_flash.pdf)
 
 The flash module version supports the addition of a flash module instead of using smd flash chip. Its mainly through hole components making it easier to build and use it.
 
